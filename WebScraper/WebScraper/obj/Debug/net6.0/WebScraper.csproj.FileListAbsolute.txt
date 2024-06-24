@@ -1,0 +1,17 @@
+D:\signalr\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.exe
+D:\signalr\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.deps.json
+D:\signalr\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.runtimeconfig.json
+D:\signalr\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.dll
+D:\signalr\WebScraper\WebScraper\bin\Debug\net6.0\WebScraper.pdb
+D:\signalr\WebScraper\WebScraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.csproj.AssemblyReference.cache
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.GeneratedMSBuildEditorConfig.editorconfig
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.AssemblyInfoInputs.cache
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.AssemblyInfo.cs
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.csproj.CoreCompileInputs.cache
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.csproj.CopyComplete
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.dll
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\refint\WebScraper.dll
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.pdb
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\WebScraper.genruntimeconfig.cache
+D:\signalr\WebScraper\WebScraper\obj\Debug\net6.0\ref\WebScraper.dll
